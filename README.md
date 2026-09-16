@@ -1,10 +1,12 @@
 
+
 # End-to-End Brazilian E-Commerce Analytics Platform
+<img width="1021" height="576" alt="BI Dashboard" src="https://github.com/user-attachments/assets/850ce989-9128-49bd-9576-7fb0d8b8a72c" />
 
 ## Project Overview
 
 This project presents a complete data engineering and machine learning solution built using the Brazilian Olist E-Commerce dataset.
-
+<img width="1883" height="914" alt="Total_Sucess_Airflow" src="https://github.com/user-attachments/assets/aed8d74c-a15b-4244-b7f3-686d2d53a4e9" />
 The project combines:
 
 * Automated ETL Pipeline
